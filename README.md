@@ -52,3 +52,10 @@ This project increased my understanding of authentication security, password man
 Ajayi Lekan
 Bachelor of Science in Information Science – Data Science
 University of North Texas
+Expected Graduation: December 2026
+
+## Technologies Used
+
+- GitHub
+- Markdown
+- Password Security Research
